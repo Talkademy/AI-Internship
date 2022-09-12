@@ -69,7 +69,7 @@
 
 
 
-> تمرین4: ابتدا مجموعه داده تحلیل احساسات را از [این جا](https://github.com/Talkademy/AI-Internship/blob/main/Projects/data/Labeled-Sentences.xlsx) دانلود کنید. سپس سه تمرین قبلی را برای آن تکرار کنید. 
+> تمرین4: ابتدا مجموعه داده تحلیل احساسات را از [این جا](https://github.com/Talkademy/AI-Internship-1400/blob/main/Projects/data/Labeled-Sentences.xlsx) دانلود کنید. سپس سه تمرین قبلی را برای آن تکرار کنید. 
 
 
 
